@@ -1,1 +1,72 @@
 /*  your css code here. If applicable */
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 20px;
+  padding: 20px;
+  color: #333;
+}
+
+/* Heading styling */
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+/* Section headings */
+h2 {
+  color: #34495e;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+/* Ordered List Styling */
+ol {
+  padding-left: 40px;
+  background: #fff;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+ol li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+/* Unordered List Styling */
+ul {
+  padding-left: 40px;
+  background: #fff;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  padding: 15px;
+}
+
+ul li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+/* Emphasis styling */
+em {
+  color: #e74c3c;
+  font-style: italic;
+}
+
+strong {
+  color: #2980b9;
+}
